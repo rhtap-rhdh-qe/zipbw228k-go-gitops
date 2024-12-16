@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zipbw228k-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zipbw228k-go-gitops
